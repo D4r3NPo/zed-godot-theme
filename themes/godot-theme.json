@@ -237,12 +237,12 @@
 						"font_weight": null
 					},
 					"function": {
-						"color": "#a3a3f5",
+						"color": "#6EB0F9",
 						"font_style": null,
 						"font_weight": null
 					},
 					"function.builtin": {
-						"color": "#6EB0F9",
+						"color": "#a3a3f5",
 						"font_style": null,
 						"font_weight": null
 					},
