@@ -2,6 +2,6 @@ id = "godot-theme"
 name = "Godot Theme"
 version = "1.3.0"
 schema_version = 1
-authors = ["Enzo Suares <mail@enzosuares.fr>"]
+authors = ["Enzo Suares <mail@enzosuares.dev>"]
 description = "A theme inspired by the Godot editor and GDScript highlighting"
 repository = "https://github.com/D4r3NPo/zed-theme-godot"
